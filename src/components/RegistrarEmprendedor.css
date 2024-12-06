@@ -1,0 +1,36 @@
+.registrar-emprendedor {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .registrar-emprendedor h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .registrar-emprendedor form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registrar-emprendedor input,
+  .registrar-emprendedor textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .registrar-emprendedor button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .registrar-emprendedor button:hover {
+    background-color: #0056b3;
+  }

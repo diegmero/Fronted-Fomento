@@ -1,0 +1,36 @@
+.crear-mercado-campesino {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .crear-mercado-campesino h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .crear-mercado-campesino form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .crear-mercado-campesino input,
+  .crear-mercado-campesino textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .crear-mercado-campesino button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .crear-mercado-campesino button:hover {
+    background-color: #0056b3;
+  }

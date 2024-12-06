@@ -1,0 +1,32 @@
+.listar-mercados {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .listar-mercados h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .listar-mercados ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .listar-mercados li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 15px;
+  }
+  
+  .listar-mercados h3 {
+    color: #007bff;
+    margin-top: 0;
+  }
+  
+  .listar-mercados p {
+    margin: 5px 0;
+  }

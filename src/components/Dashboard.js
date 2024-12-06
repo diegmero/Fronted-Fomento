@@ -8,7 +8,7 @@ const Dashboard = () => {
     { title: 'Ver Emprendedores', path: '/ver-emprendedores' },
     { title: 'Crear Evento', path: '/crear-evento' },
     { title: 'Crear Mercado Campesino', path: '/crear-mercado-campesino' },
-    { title: 'Ver Mercados', path: '/listar-mercados' },
+    { title: 'Ver Eventos', path: '/ver-eventos' },
   ];
 
   return (
